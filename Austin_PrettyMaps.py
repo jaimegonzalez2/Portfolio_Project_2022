@@ -61,7 +61,7 @@ ax.set_ylim(ymin+a*dy, ymax-a*dy)
 
 ax.text(
     xmin+.39*dx, ymin+.305*dy,
-    ' '*3 + 'Stad van de Zon,\nHeerhugowaard, Netherlands',
+    ' '*3 + 'Austin,\nTexas, United States',
     color = '#2F3737',
     zorder = 6, rotation = +1.75,
     fontproperties = fm.FontProperties(fname = '../assets/Permanent_Marker/PermanentMarker-Regular.ttf', size = 24)
