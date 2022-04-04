@@ -67,5 +67,5 @@ ax.text(
     fontproperties = fm.FontProperties(fname = '../assets/Permanent_Marker/PermanentMarker-Regular.ttf', size = 24)
 )
 
-#plt.savefig('../prints/heerhugowaard.png')
-#plt.savefig('../prints/heerhugowaard.svg')
+#plt.savefig('../prints/austintx.png')
+#plt.savefig('../prints/austintx.svg')
